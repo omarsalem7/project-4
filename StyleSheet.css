@@ -1,0 +1,26 @@
+﻿body {
+    margin-top:78px;
+}
+nav {
+box-shadow:2px 2px 2px #3292a6;
+opacity:0.7;
+background:#fff;
+}
+.nav-item {
+font-size:1.2rem;
+padding-right:20px;
+}
+#showcase {
+    background: url('imgs/pexels-photo-355747.jpeg');
+    /*background: url('imgs/7.jpeg');*/
+    position: relative;
+    min-height:590px;
+}
+.overlay {
+    background: rgba(50,146,166,0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
